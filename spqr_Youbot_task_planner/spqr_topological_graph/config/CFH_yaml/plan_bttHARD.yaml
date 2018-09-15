@@ -1,0 +1,9 @@
+%YAML:1.0
+objects:
+  - {name: AXIS, source: WS10, dest: CB02, container: None}
+  - {name: S40_40B, source: WS11, dest: WS02, container: None}
+  - {name: F20_20G, source: WS01, dest: WS02, container: None}
+  - {name: SMALL_NUT, source: WS01, dest: WS07, container: None}
+  - {name: DISTANCE_TUBE, source: WS10, dest: WS04, container: None}
+  - {name: S40_40G, source: WS11, dest: WS05, container: None}
+  - {name: AXIS, source: WS03, dest: WS02, container: None}
