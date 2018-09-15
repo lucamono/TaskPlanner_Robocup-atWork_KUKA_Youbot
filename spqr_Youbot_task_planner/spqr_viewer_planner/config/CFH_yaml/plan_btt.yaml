@@ -1,0 +1,9 @@
+%YAML:1.0
+objects:
+  - {name: BEARING, source: WS08, dest: SH02, container: None}
+  - {name: BEARING_BOX, source: WS11, dest: WS07, container: None}
+  - {name: F20_20_B, source: WS02, dest: WS03, container: None}
+  - {name: AXIS, source: WS08, dest: WS07, container: None}
+  - {name: M20_100, source: WS07, dest: WS03, container: None}
+  - {name: S40_40_G, source: WS07, dest: WS04, container: Blue}
+  - {name: F20_20_B, source: WS11, dest: WS04, container: Red}
