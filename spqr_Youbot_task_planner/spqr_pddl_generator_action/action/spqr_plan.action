@@ -1,0 +1,8 @@
+#goal definition
+string filename
+---
+#result definition
+spqr_action[] plan
+---
+#feedback definition
+float64 goal

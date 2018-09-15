@@ -1,0 +1,12 @@
+%YAML:1.0
+objects:
+  - {name: F20_20_G, source: slot2, dest: PP01, container: None}
+  - {name: S40_40_B, source: CB02, dest: SH02, container: None}
+  - {name: MOTOR, source: SH01, dest: WS09, container: None}
+  - {name: MOTOR, source: SH01, dest: WS09, container: None}
+  - {name: BEARING_BOX, source: WS03, dest: WS09, container: None}
+  - {name: R20, source: WS07, dest: WS06, container: None}
+  - {name: MOTOR, source: WS07, dest: WS12, container: None}
+  - {name: F20_20_B, source: WS08, dest: WS07, container: None}
+  - {name: BEARING, source: WS08, dest: WS10, container: Red}
+  - {name: F20_20_B, source: WS01, dest: WS10, container: Red}

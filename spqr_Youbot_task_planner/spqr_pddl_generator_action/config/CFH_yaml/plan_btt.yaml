@@ -1,0 +1,7 @@
+%YAML:1.0
+objects:
+  - {name: S40_40_G, source: WS06, dest: WS03, container: None}
+  - {name: S40_40_G, source: WS02, dest: WS05, container: None}
+  - {name: R20, source: WS06, dest: WS05, container: None}
+  - {name: S40_40_G, source: WS02, dest: WS03, container: None}
+  - {name: F20_20_G, source: WS06, dest: WS03, container: None}
